@@ -1,28 +1,19 @@
         
         * {
             font-family: 'roboto', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+            box-sizing: border-box;
         }
-        
-        #maintitle {
-            text-align: center;
+
+        #section
+        {
+            border-style: solid;
         }
-        h2 {
-            text-align:center;
-            color:green;
-        }
+
+        #thetable
+        {
+            background-color: lightblue;
+        }       
+                
         h3 {
             color: blue;
         }
-        h4 {
-            color:brown;
-        }
-        h5 {
-            color:cyan;
-        }
-
-        .classforparagraphs {
-            font-size: 72px;
-            color:lightblue;
-        }
-
-    
