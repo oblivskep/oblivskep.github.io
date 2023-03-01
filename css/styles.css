@@ -1,19 +1,27 @@
-        
         * {
-            font-family: 'roboto', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
             box-sizing: border-box;
+            font-family: 'Abril Fatface', cursive;
         }
 
-        #section
+        .thediv
         {
-            border-style: solid;
+            background-color: lightblue;
         }
 
+        /* this is used with the table used before using a container based on bootstrap
         #thetable
         {
             background-color: lightblue;
-        }       
+        }
+        /*       
                 
         h3 {
             color: blue;
+        }
+/* workexperience has been added top margin to separate it better from
+the top container that includes name and personal picture
+*/
+        #workexperience {
+            margin-top: 20px;
+
         }
